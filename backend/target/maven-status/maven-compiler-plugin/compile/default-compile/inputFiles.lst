@@ -1,0 +1,17 @@
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\controller\PuzzleController.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\solver\NativeSolverBridge.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\model\GameHistory.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\repository\GameHistoryRepository.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\config\WebSocketConfig.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\model\SavedPuzzle.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\model\User.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\config\SecurityConfig.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\repository\UserRepository.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\solver\CheckersAI.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\controller\AuthController.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\repository\SavedPuzzleRepository.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\solver\KakuroSolver.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\solver\NQueensSolver.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\solver\SudokuSolver.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\controller\SolverWebSocketController.java
+C:\Users\Prana\Documents\AI puzzle solver\backend\src\main\java\com\airesearch\puzzleplatform\PuzzlePlatformApplication.java
